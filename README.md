@@ -14,7 +14,7 @@ javax.faces.context.ExternalContext, which internally uses ServletContext, HttpS
   
 Type
 -----  
-Creational Pattern   
+Structural Pattern   
 
 Author
 ------
